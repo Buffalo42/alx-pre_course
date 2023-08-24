@@ -1,1 +1,1 @@
-My first Directory
+Corrected README.md 
